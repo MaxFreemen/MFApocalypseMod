@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mfa",
+  "name": "MF Apocalypse Mod",
+  "description": "Modification based on Optimus0812 [Dayz Apocalypse] and my coding skills. Explore Minecraft world with new weapon and game mechanics.",
+  "version": "1.0",
+  "mcversion": "[1.12.2]",
+  "url": "https://www.planetminecraft.com/texture_pack/1-12-x-3d-gun-dayz-apocalypse/",
+  "updateUrl": "",
+  "authorList": [ "Max_Freemen" , "Optimus0812" ],
+  "credits": "Optimus0812 for awesome textures and models!",
+  "logoFile": "assets/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
